@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ICX 2000</title> 
-    
- 
+     
 </head>
 <body>
     <a href="icx/2000/0000-00.zip"><p id="oc"> 0000-00</p> </a>
@@ -1005,8 +1004,6 @@
 <a href="icx/2000/3479-00.zip"><p id="oc"> 3479-00</p> </a>
 <a href="icx/2000/7423-00.zip"><p id="oc"> 7423-00</p> </a>
 
-    
-
-    
+   
 </body>
 </html>
